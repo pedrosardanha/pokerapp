@@ -1,0 +1,15 @@
+C:\Users\Pedro Henrique\Documents\unileste\.net\pokerapp.git\bin\Debug\net8.0\pokerapp.exe
+C:\Users\Pedro Henrique\Documents\unileste\.net\pokerapp.git\bin\Debug\net8.0\pokerapp.deps.json
+C:\Users\Pedro Henrique\Documents\unileste\.net\pokerapp.git\bin\Debug\net8.0\pokerapp.runtimeconfig.json
+C:\Users\Pedro Henrique\Documents\unileste\.net\pokerapp.git\bin\Debug\net8.0\pokerapp.dll
+C:\Users\Pedro Henrique\Documents\unileste\.net\pokerapp.git\bin\Debug\net8.0\pokerapp.pdb
+C:\Users\Pedro Henrique\Documents\unileste\.net\pokerapp.git\obj\Debug\net8.0\pokerapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Henrique\Documents\unileste\.net\pokerapp.git\obj\Debug\net8.0\pokerapp.AssemblyInfoInputs.cache
+C:\Users\Pedro Henrique\Documents\unileste\.net\pokerapp.git\obj\Debug\net8.0\pokerapp.AssemblyInfo.cs
+C:\Users\Pedro Henrique\Documents\unileste\.net\pokerapp.git\obj\Debug\net8.0\pokerapp.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Henrique\Documents\unileste\.net\pokerapp.git\obj\Debug\net8.0\pokerapp.sourcelink.json
+C:\Users\Pedro Henrique\Documents\unileste\.net\pokerapp.git\obj\Debug\net8.0\pokerapp.dll
+C:\Users\Pedro Henrique\Documents\unileste\.net\pokerapp.git\obj\Debug\net8.0\refint\pokerapp.dll
+C:\Users\Pedro Henrique\Documents\unileste\.net\pokerapp.git\obj\Debug\net8.0\pokerapp.pdb
+C:\Users\Pedro Henrique\Documents\unileste\.net\pokerapp.git\obj\Debug\net8.0\pokerapp.genruntimeconfig.cache
+C:\Users\Pedro Henrique\Documents\unileste\.net\pokerapp.git\obj\Debug\net8.0\ref\pokerapp.dll
