@@ -7,8 +7,6 @@ class Principal{
     // Execução principal
     static void Main(){
         // Dictionary<string, int> count = [];
-        
-
         // int i = 0;
         // while( i < 1000000){
         //     List<Card> deck = GenerateDeck();
@@ -26,7 +24,9 @@ class Principal{
         //     Console.WriteLine($"Chave: {entry.Key}, Valor: {entry.Value/1000000.0}");
         // }
         
+        
         //Gera o deck de cartas e embaralha
+        Dictionary<string, Card> allcards = [];
         List<Card> deck = GenerateDeck();
 
         // Adiciona cartas à mão
