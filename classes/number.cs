@@ -1,6 +1,6 @@
 namespace Class_number_external{
     public enum Numbers{
-        Two,
+        Two = 2,
         Three,
         Four,
         Five,
