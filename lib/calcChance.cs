@@ -1,5 +1,5 @@
 using Class_card_extern;
-using Class_number_external;
+using Class_rank_external;
 using Class_suit_external;
 
 namespace Class_calc_chance{

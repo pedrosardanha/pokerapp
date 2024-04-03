@@ -1,5 +1,5 @@
-namespace Class_number_external{
-    public enum Numbers{
+namespace Class_rank_external{
+    public enum Rank{
         Two = 2,
         Three,
         Four,
