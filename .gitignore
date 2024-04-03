@@ -1,3 +1,5 @@
 pokerapp.csproj
 pokerapp.sln
 principal.exe
+bin
+obj
